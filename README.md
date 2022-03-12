@@ -15,3 +15,10 @@
 |5_Report|	Documented report
 |6_ImagesAndVideos|	Images and videos showcasing project outputs
 |7_Other|	References
+# Group Members
+|Name	|PS Number|	Work done|
+|-------|---------|----------|
+|GAGANDEEP RANA	|99007862|	Requirements ,Architecture,implementation,Test Plan ,others and output for BICOM System
+|Shirsha Ghosh|	99007864|	 report for BICOM System|
+|vignesh bhat|	99007866|	Architecture,Test plan and output for RKE System
+|yogesh surve|	99007863|	Requirements and applications for RKE System
